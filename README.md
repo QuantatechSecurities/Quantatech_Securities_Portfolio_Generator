@@ -61,7 +61,7 @@ The dependencies used in the project are listed below
 |pandas_datareader|0.10.0|
 
 ### Additional Information
-If you have any questions about the project feel free to contact us over [ail](mailto:quantatech.securities@gmail.com)
+If you have any questions about the project feel free to contact us over [Mail](mailto:quantatech.securities@gmail.com)
 
 
 
